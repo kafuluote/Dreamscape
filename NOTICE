@@ -1,0 +1,12 @@
+Insomnia Local
+
+Independent Rust + Tauri reimplementation of local API workflows and import formats
+from Insomnia (https://github.com/Kong/insomnia), source version 13.3.1,
+reference commit d370ff0a6.
+
+Insomnia and its original source code are Copyright Kong Inc. and its contributors,
+distributed under the Apache License, Version 2.0. The original license is retained.
+This project is not affiliated with or endorsed by Kong Inc.
+
+New implementation files and compatibility adapters are distributed under Apache-2.0.
+Third-party Rust and JavaScript libraries retain their respective licenses.

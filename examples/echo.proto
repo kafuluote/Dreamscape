@@ -1,0 +1,12 @@
+syntax = "proto3";
+package local.echo;
+
+service Echo {
+  rpc Say(Message) returns (Message);
+  rpc Chat(stream Message) returns (stream Message);
+}
+
+message Message {
+  string text = 1;
+  int32 count = 2;
+}

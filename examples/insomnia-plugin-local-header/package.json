@@ -1,0 +1,7 @@
+{
+  "name": "insomnia-plugin-local-header",
+  "version": "1.0.0",
+  "main": "index.cjs",
+  "description": "Adds a local request ID and logs response status.",
+  "license": "Apache-2.0"
+}
